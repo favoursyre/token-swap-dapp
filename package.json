@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "deploy": "browserify script.js > bundle.js"
+  },
+  "dependencies": {
+    "bignumber.js": "^9.0.2",
+    "qs": "^6.11.0",
+    "web3": "^1.7.4"
+  }
+}
