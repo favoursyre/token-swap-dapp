@@ -10,7 +10,7 @@
 
 
 ## Overview
-This is a simple Dapp that allows a Metamask user swap any token of their choice
+This is a simple Dapp that allows a Metamask user to swap any token of their choice
 
 ## Features
 * It prompts a user to connect their Metamask account
