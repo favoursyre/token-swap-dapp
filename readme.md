@@ -36,3 +36,7 @@ This creates the bundle.js file that will be used by the index.html file
 ```bash
 npm run deploy
 ```
+Then you can run the index.html file
+```bash
+start ./index.html
+```
