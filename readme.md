@@ -28,6 +28,10 @@ This is a simple Dapp that allows a Metamask user to swap any token of their cho
 
 ## Installations
 ```bash
+git clone https://github.com/favoursyre/token-swap-dapp.git && cd token-swap-dapp
+```
+
+```bash
 npm install
 ```
 
